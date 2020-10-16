@@ -1,6 +1,7 @@
 # SUPER TML
 
-[](./imgs/tabular_to_img.PNG)
+
+![](/imgs/tabular_to_img.PNG)
 
 "Super Characters: A Conversion from Sentiment Classification to Image Classification"를 모티브로한 논문이다. 
 해당 논문은 글자를 이미지를 이용해서 분류하는 방법론을 정형데이터도 이미지로 만들어서 적용하였다. 
@@ -21,14 +22,14 @@
 1. SuperTML_VF(Variant Font)
 2. SuperTML_EF(Equal Font)
 
-[](./imgs/data2img.PNG)
-[](./imgs/data2img_2.PNG)
+![](/imgs/data2img.PNG)
+![](/imgs/data2img_2.PNG)
 
 ## 실험 결과
 
 저자에 따르면 작은 데이터셋에도 잘 되는 방법론이라고 함.
 
-[]("./imgs/EXP.PNG")
+![](/imgs/EXP.png)
 
 ## 논문 및 유사 논문
 
