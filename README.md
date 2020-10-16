@@ -1,11 +1,4 @@
-# SUPER TML
-
-
-![](/imgs/tabular_to_img.PNG)
-
-"Super Characters: A Conversion from Sentiment Classification to Image Classification"를 모티브로한 논문이다. 
-해당 논문은 글자를 이미지를 이용해서 분류하는 방법론을 정형데이터도 이미지로 만들어서 적용하였다. 
-실제로 이러한 방법론이 됬으면 좋겠다고 생각은 하고 있었으나, 필자는 그 숫자값을 3차원으로 표현해서 시도를 했었고, 이 저자는 숫자들을 이미지화해서 하니 잘된 것을 보였다. 그래서 정형 데이터에 이러한 시도를 한 것이 너무나 반갑다.
+a
 
 ## 인상깊은 점
 
@@ -34,4 +27,5 @@
 ## 논문 및 유사 논문
 
 [SuperTML: Two-Dimensional Word Embedding for the Precognition on Structured Tabular Data](https://arxiv.org/abs/1903.06246)
+
 [A novel method for classification of tabular data using convolutional neural networks](https://www.biorxiv.org/content/10.1101/2020.05.02.074203v1.full)
